@@ -1,6 +1,6 @@
 # Knife
 A test project for Unity
 
-![icon](https://imgur.com/0E9oZsd)
+![icon](https://i.imgur.com/0E9oZsd.png)
 
-![screenshot](https://imgur.com/rxlUurz)
+![screenshot](https://i.imgur.com/rxlUurH.png)
